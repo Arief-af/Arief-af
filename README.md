@@ -2,7 +2,7 @@
 - 👀 I’m Fullstack Developer 
 - 🌱 I’m Quasar & Laravel Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arief-af)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arief-Af&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 - You can see my portofolio right here
 - https://ziaq.my.id
