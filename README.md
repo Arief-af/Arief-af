@@ -1,9 +1,15 @@
-```
+```Json
 {
-  "name" : "Arief A.F",
-  "tech stack": [['quasar'.'laravel'],['laravel'],['nuxt','express'],['vue','express']],
-  "role": ['Fullstack','frontend','backend']
+  "name": "Arief A.F",
+  "tech stack": [
+    ["quasar", "laravel"],
+    ["laravel"],
+    ["nuxt", "express"],
+    ["vue", "express"]
+  ],
+  "role": ["Fullstack", "frontend", "backend"]
 }
+
 ```   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arief-Af&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
