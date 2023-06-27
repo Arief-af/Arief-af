@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Ariefaf
-- 👀 I’m Fullstack Developer 
-- 🌱 I’m Quasar & Laravel Stack
+```
+{
+  "name" : "Arief A.F",
+  "tech stack": [['quasar'.'laravel'],['laravel'],['nuxt','express'],['vue','express']],
+  "role": ['Fullstack','frontend','backend']
+}
+```   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arief-Af&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arief-Af&theme=tokyonight)]
