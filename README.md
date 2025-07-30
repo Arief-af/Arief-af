@@ -1,7 +1,7 @@
 ```Json
 {
   "name": "Arief A.F a.k.a ziaqkh",
-  "tech stack": [
+  "techstack": [
       'vuejs','react','next','nuxt','laravel','golang','javascript','php','tailwind','pythom'
   ],
   "role": ["Fullstack", "frontend", "backend","ui&ux"]
