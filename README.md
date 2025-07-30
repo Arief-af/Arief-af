@@ -1,10 +1,10 @@
 ```Json
 {
   "name": "Arief A.F a.k.a ziaqkh",
-  "techstack": [
-      'vuejs','react','next','nuxt','laravel','golang','javascript','php','tailwind','pythom'
+  "techStack": [
+    "Vue.js", "React", "Next.js", "Nuxt.js", "Laravel", "Go", "JavaScript", "PHP", "Tailwind CSS", "Python"
   ],
-  "role": ["Fullstack", "frontend", "backend","ui&ux"]
+  "roles": ["Full Stack Developer", "Frontend Developer", "Backend Developer", "UI/UX Designer"]
 }
 
 ```   
